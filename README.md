@@ -87,7 +87,7 @@ $ rabbitmqadmin get queue='hello'
 
 3. Вывод команды ``` $ rabbitmqctl cluster_status ``` на [дочерной ноде](./cluster_status_slave).
 4. Вывод команды ``` $ rabbitmqctl cluster_status ``` на [основное ноде](./cluster_status_master).
-5. Скриншот выполнения команды ```bash $ rabbitmqadmin get queue='ANDAKS' ```:
+5. Скриншот выполнения команды ``` $ rabbitmqadmin get queue='ANDAKS' ```:
 ![get_queue](img/zadanie3/03_03.png)
 6. Скриншот работы скрипта ``` consumer.py ```:
 ![remote_consumer](img/zadanie3/03_04.png)
