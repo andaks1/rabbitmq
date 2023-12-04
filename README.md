@@ -85,7 +85,7 @@ $ rabbitmqadmin get queue='hello'
 2. Применение политики ha-all:
 ![policy](img/zadanie3/03_02.png)
 
-3. Вывод команды статуса кластера на [дочерной ноде](./cluster_status_slave).
+3. Вывод команды статуса кластера на [дочерной ноде](./cluster_status_slave.md).
 
 ---
 
