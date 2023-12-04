@@ -1,4 +1,3 @@
-``` bash
 root@debian-rmq2:/home/andaks# rabbitmqctl cluster_status
 Cluster status of node rabbit@debian-rmq2 ...
 Basics
@@ -54,4 +53,3 @@ Flag: stream_queue, state: enabled
 Flag: user_limits, state: enabled
 Flag: virtual_host_metadata, state: enabled
 root@debian-rmq2:/home/andaks#
-```
