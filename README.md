@@ -86,6 +86,7 @@ $ rabbitmqadmin get queue='hello'
 ![policy](img/zadanie3/03_02.png)
 
 3. Вывод команды статуса кластера на [дочерной ноде](./cluster_status_slave).
+4. Вывод команды статуса кластера на [основное ноде](./cluster_status_master).
 
 ---
 
